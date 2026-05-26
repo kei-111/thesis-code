@@ -1,0 +1,1 @@
+This code is written for the analysis of credit/non-credit sales in a retail company in Kazakhstan. The Master thesis topic is "Determinants of Loan-Financed Consumer Purchases in Kazakhstan", if you want to read my work or ask some details concerning my code, please reach out to tsukki.29@gmail.com
